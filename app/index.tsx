@@ -17,7 +17,7 @@ const Homescreen = () => {
         <Link
           href={"./lookup"}
           style={[
-            defaultStyles.pillButtonSmall,
+            defaultStyles.pillButtonSmall, 
             { fontSize: 22, fontWeight: "500", backgroundColor: "gray" },
           ]}
           asChild
